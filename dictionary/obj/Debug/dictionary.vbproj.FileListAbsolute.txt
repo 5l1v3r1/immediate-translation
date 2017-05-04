@@ -1,0 +1,11 @@
+C:\Users\kbuyu\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\kbuyu\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\kbuyu\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Debug\dictionary.vbproj.GenerateResource.Cache
+C:\Users\kbuyu\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Debug\dictionary.vbprojResolveAssemblyReference.cache
+C:\Users\kbuyu\Documents\Visual Studio 2015\Projects\dictionary\dictionary\bin\Debug\TRdictionary.exe.config
+C:\Users\kbuyu\Documents\Visual Studio 2015\Projects\dictionary\dictionary\bin\Debug\TRdictionary.exe
+C:\Users\kbuyu\Documents\Visual Studio 2015\Projects\dictionary\dictionary\bin\Debug\TRdictionary.pdb
+C:\Users\kbuyu\Documents\Visual Studio 2015\Projects\dictionary\dictionary\bin\Debug\TRdictionary.xml
+C:\Users\kbuyu\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Debug\TRdictionary.exe
+C:\Users\kbuyu\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Debug\TRdictionary.xml
+C:\Users\kbuyu\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Debug\TRdictionary.pdb
