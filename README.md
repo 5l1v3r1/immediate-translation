@@ -1,1 +1,2 @@
 # immediate-translation
+English is my second language after Turkish and I always strive to improve my English. I decided to use my programming knowledge to help me with language learning. When I encounter words that I am not familiar with, this programme will translate them for me using content from Tureng (tureng.com). This programme can also be used for English-German and English-French translations.
